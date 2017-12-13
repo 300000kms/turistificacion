@@ -3,7 +3,9 @@ datos para la aproximación al impacto del turismo en Madrid
 
 ## fuentes de datos
 -cad: catastro, extraccion en junio de 2017
+
 -fl :flickr, extracción en junio de 2017 que incluye toda la informacion georeferenciada hasta el momento 
+
 -tp: tripadvisor, extracción en septiembre de 2017
 -fc: fotocasa, extracción en mayo-septiembre de 2017 
 -h: hoteles, datos del portal de datos abiertos del ayuntamiento de Madrid
