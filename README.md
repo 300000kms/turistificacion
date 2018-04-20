@@ -26,57 +26,57 @@ datos para la aproximación al impacto del turismo en Madrid
 
 
 ## campos
-1	abnb_pk
+1	abnb_pk: 
 
-2	abnb_tot_beds
+2	abnb_tot_beds : número total de camas ofertadas
 
-3	abnb_tot_hosts_listings
+3	abnb_tot_hosts_listings : número total de ofertas publicadas pot los distintos propietarios de la celda
 
-4	abnb_tot_offer
+4	abnb_tot_offer : número total de oferta en la celda
 
-5	abnb_tot_owners
+5	abnb_tot_owners : número total de propietarios en la celda
 
-6	abnb_tot_price
+6	abnb_tot_price : precio agregado
 
-7	abnb_tot_reviews
+7	abnb_tot_reviews : total de reviews (a veces utilizado para mediar número de alojados)
 
-8	abnb_tot_reviews_per_month
+8	abnb_tot_reviews_per_month : promedio de visitas por mes teniendo en cuenta el tiempo que la oferta ha estado vigente 
 
-9	cad_med_consq
+9	cad_med_consq : valor mediano de la calidad de la construcción de las divisiones catastrales en la celda
 
-10	cad_pk
+10	cad_pk : 
 
-11	cad_tot_hab
+11	cad_tot_hab : número de habitantes
 
-12	cad_tot_hotels
+12	cad_tot_hotels : número de hoteles (según catastro, incluye pensiones y albergues)
 
-13	cad_tot_houses
+13	cad_tot_houses : número de viviendas (según catastro)
 
-14	cad_tot_parcs
+14	cad_tot_parcs : superfície de parcelas
 
-15	cad_tot_srf_hotels
+15	cad_tot_srf_hotels : superfície de hoteles
 
-16	cad_tot_srf_houses
+16	cad_tot_srf_houses :  superfície de casas
 
-17	fc_avg_price
+17	fc_avg_price : fotocasa precio promedio
 
-18	fc_tot_offer
+18	fc_tot_offer : fotocasa total de ofertas
 
-19	fc_tot_owners
+19	fc_tot_owners : fotocasa total de ofertantes
 
-20	fl_n_date
+20	fl_n_date : 
 
-21	fl_n_locals
+21	fl_n_locals : número de fotos hechas por locales
 
-22	fl_n_posts
+22	fl_n_posts : número total de fotos
 
-23	fl_n_tourists
+23	fl_n_tourists : número de turistas
 
-24	fl_n_user
+24	fl_n_user : número de usuarios distintos
 
-25	fl_tag_madrid
+25	fl_tag_madrid : número de fotos tagueadas con la etiqueta 'madrid'
 
-26	fl_txt_madrid
+26	fl_txt_madrid : número de fotos descritas con la palabra 'madrid'
 
 27	h_address
 
